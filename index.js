@@ -1,4 +1,4 @@
-#!usr/bin/env node
+#!/usr/bin/env node
 
 // Packages needed for this application
 const fs = require("fs");
