@@ -1,57 +1,57 @@
+# quick-readme-generator
 
-  # quick-readme-generator
-  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-  ## Description
-  A quick readme generator using node.js
-  
+## Description
 
-  ## Table of Contents
+A quick readme generator using node.js.
+Simply input code below to use this in your app.
 
-  * [Installation](#installation)
+```md
+npx quick-readme-generator
+```
 
-  * [Usage](#usage)
+## Table of Contents
 
-  * [License](#license)
+- [Installation](#installation)
 
-  * [Contributing](#contributing)
+- [Usage](#usage)
 
-  * [Tests](#tests)
+- [License](#license)
 
-  * [Questions](#questions)
+- [Contributing](#contributing)
 
+- [Tests](#tests)
 
-  ## Installation
+- [Questions](#questions)
 
-  npm install
- 
+## Installation
 
-  ## Usage
+npm install
 
-  Inquirer version 6.5.2
-  
+## Usage
 
-  ## License    
+Inquirer version 6.5.2
 
-  Licensed under the MIT license.
+## License
 
+Licensed under the MIT license.
 
-  ## Contributing
+## Contributing
 
-  n/a
-  
+n/a
 
-  ## Tests
+## Tests
 
-  npm test
+npm test
 
+## Questions
 
-  ## Questions
-  
-  If you have any questions, please feel free to reach out to me via:
-  1. lyf703331869@gmail.com
-  2. [lyf703331869](https://github.com/lyf703331869)
-  
-  
-  ## Credits
-  Copyright © All rights reserved by Yafei Liu.   
+If you have any questions, please feel free to reach out to me via:
+
+1. lyf703331869@gmail.com
+2. [lyf703331869](https://github.com/lyf703331869)
+
+## Credits
+
+Copyright © All rights reserved by Yafei Liu.
